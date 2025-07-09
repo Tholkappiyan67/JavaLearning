@@ -14,6 +14,7 @@ public class currency {
             amt=amt%arr[i];
         }
         }
+        sc.close();
         
     }
 }
